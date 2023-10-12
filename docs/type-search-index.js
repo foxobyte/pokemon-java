@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.foxobyte.pokemon.constant","l":"GrowthRate"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.foxobyte.pokemon.constant","l":"GrowthRate"},{"p":"edu.foxobyte.pokemon.calculator","l":"GrowthRateCalculator"}]
