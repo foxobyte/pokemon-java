@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.foxobyte.pokemon.calculator","l":"DamageCalculator"},{"p":"edu.foxobyte.pokemon.calculator","l":"DamageCalculatorTests"},{"p":"edu.foxobyte.pokemon.calculator","l":"ExperienceCalculator"},{"p":"edu.foxobyte.pokemon.calculator","l":"ExperienceCalculatorTests"},{"p":"edu.foxobyte.pokemon.constant","l":"GrowthRate"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.foxobyte.pokemon.constant","l":"GrowthRate"}]
